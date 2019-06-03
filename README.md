@@ -7,5 +7,5 @@ This script is under the [BSD 3-Clause license](https://raw.githubusercontent.co
 
 #### Usage:
 .EXAMPLE  
-python gnmap2csv.py -i inputfile.xml -o outputfile.csv
+python gnmap2csv.py inputfile.gnmap outputfile.csv
 
